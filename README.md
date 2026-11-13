@@ -1,4 +1,4 @@
-About me
+About
 
 ## How I Got Into Cybersecurity
 
