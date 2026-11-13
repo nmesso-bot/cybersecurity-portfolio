@@ -32,12 +32,7 @@ This portfolio is built as a learning resource, not just a showcase. I'm curatin
 material from beginner to advanced, documenting the process behind each project
 so others can follow the reasoning, not just the results.
 
-### Tools
+### Credentials
 
-Splunk · Wireshark · Nmap · Metasploit · VirusTotal · Shodan · Censys · GreyNoise ·
-DomainTools · AlienVault OTX · Python · SQL
+- GIAC GCIH and GSEC; CompTIA CySA+, Security+, and Network+, PMI PMP
 
-### Credentials and Education
-
-- GIAC GCIH and GSEC; CompTIA CySA+, Security+, and Network+
-- B.S. in Applied Cybersecurity, SANS Technology Institute (in progress)
