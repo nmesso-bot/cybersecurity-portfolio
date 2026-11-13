@@ -34,5 +34,5 @@ so others can follow the reasoning, not just the results.
 
 ### Credentials
 
-- GIAC GCIH, GSEC; CompTIA CySA+, Security+, and Network+; PMI PMP
+- GIAC GFACT, GCIH, GSEC; CompTIA CySA+, Security+, and Network+; PMI PMP
 
