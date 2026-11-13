@@ -9,3 +9,6 @@ The transition began as I moved into more integrated intelligence positions. I s
 From there, my path into cybersecurity became intentional. In subsequent roles I focused on foreign threat actors, advanced persistent threat tradecraft, malware and intrusion analysis, and producing cyber threat intelligence to inform decision-making. I regularly apply frameworks such as MITRE ATT&CK and the Diamond Model, along with tools for network, log, and malware analysis. Pursuing a Bachelor’s in Applied Cybersecurity, earning certifications including GSEC, GCIH, Security+, and CySA+, and competing as Team Captain in the National Cyber League Cyber Operations Challenge have helped formalize and strengthen the technical side of work I was already performing operationally.
 
 What continues to draw me to cybersecurity is the same core interest that drew me to intelligence: taking complex, incomplete information, applying structured methods, and turning it into actionable insight—now directed at protecting critical systems and understanding sophisticated digital threats.
+
+
+
