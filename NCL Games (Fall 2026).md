@@ -46,7 +46,7 @@ the sessions. Seeing that a larger key size changed nothing about WEP's structur
 weakness made the IV-reuse flaw concrete in a way reading about it never did. I
 followed that with a WPA-PSK handshake crack and full HTTP decryption.
 
-## NCL Score Reports
+## NCL Score Reports (pending)
 
 Individual and team score reports are published by NCL approximately two weeks
 after the team game. Links will be added here as soon as they are released.
