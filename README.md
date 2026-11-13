@@ -26,6 +26,12 @@ critical systems and understanding sophisticated digital threats.
 - **OSINT and attack surface analysis:** infrastructure mapping, behavioral
   baselining, and digital footprint analysis
 
+### What You'll Find Here
+
+This portfolio is built as a learning resource, not just a showcase. I'm curating
+material from beginner to advanced, documenting the process behind each project
+so others can follow the reasoning, not just the results.
+
 ### Tools
 
 Splunk · Wireshark · Nmap · Metasploit · VirusTotal · Shodan · Censys · GreyNoise ·
