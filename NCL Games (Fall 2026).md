@@ -1,4 +1,4 @@
-## My CTF Experience
+## CTF Experience
 
 I competed in the **National Cyber League (NCL) Fall 2026** season, which includes
 a practice game, an individual game, and a team game. NCL challenges are organized
