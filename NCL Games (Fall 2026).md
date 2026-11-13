@@ -51,5 +51,5 @@ followed that with a WPA-PSK handshake crack and full HTTP decryption.
 Individual and team score reports are published by NCL approximately two weeks
 after the team game. Links will be added here as soon as they are released.
 
-- **Individual Game:** (https://cyberskyline.com/world/6a1729e7d4551af5a8772a54/report/6a1729e7d4551af5a8772a56)
+- **Individual Game:** https://cyberskyline.com/world/6a1729e7d4551af5a8772a54/report/6a1729e7d4551af5a8772a56
 - **Team Game:** https://cyberskyline.com/world/6a1729e7d4551af5a8772a55/report/6a1729e7d4551af5a8772a57
