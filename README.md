@@ -8,7 +8,12 @@ remote sensing to analyze signals and geospatial data, then moved into cybersecu
 to track threats across networks. Today, I investigate intrusions, analyze malware, 
 and profile advanced persistent threat (APT) groups, turning technical findings into 
 actionable intelligence that supports security operations and helps leadership and 
-security teams reduce risk.
+security teams reduce risk. 
+
+What continues to draw me to cybersecurity is the same core interest that drew me
+to intelligence: taking complex, incomplete information, applying structured
+methods, and turning it into actionable insight, now directed at protecting
+critical systems and understanding sophisticated digital threats.
 
 ### Highlights
 
